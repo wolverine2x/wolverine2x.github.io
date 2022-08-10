@@ -2,3 +2,5 @@ theme: jekyll-theme-tactile
 show_downloads: true
 title: Shi Qiu's Personal Site
 description: concepts, collaborations, contributions 
+github:
+  another_url: https://www.w3.org/2002/12/cal/vcard-examples/rfc2425-ex1.vcr
